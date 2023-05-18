@@ -1,5 +1,6 @@
 # Hotel-program-Gui-Tkinter-python-sql
-Hotel management , with log in authentication , using python and mySQL.
+Easy to use Hotel management program. Including log in authentication,Submitting customer details.
+Using python and mySQL.
 
 this project is made with Tkinter which is the standard GUI library for Python. 
 
