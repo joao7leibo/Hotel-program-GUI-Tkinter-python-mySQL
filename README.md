@@ -13,4 +13,5 @@ In order to use this you need to download mySQL, then set it up with a new schem
 
 
 P.S. If you're interested in contributing go ahead and create a pull request :-)
+Please share and like =]
 
